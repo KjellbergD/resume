@@ -47,3 +47,6 @@ The importance is the relation, not the number value (HxW):
 - Foreground dirt layer: 80xInf
 - Sprite body: 48x48
 - Sprite arms / legs: 16x16
+
+### Color palette
+I do not know if I'll stick to it, but I found one that I really like for its vibrant colors. https://lospec.com/palette-list/endesga-32

@@ -33,3 +33,17 @@ For a milestone I want there to be an object, which when collided with, will tri
 ![grad hat](gradhat.jpg)
 
 Image is found on google images. The text could then be displayed in the sky or perhaps on a scroll still that shows up. I was also thinking to have the character collects these objects. This could give a sense of progression, especially if the character wears / holds the items collected. Another example could be a medal for finishing my first marathon. With this approach I would have to somehow make the text stay after the object is collected.
+
+### Asset size relation
+These are the relative sizes of assets to ensure pixel size are roughly the same for all items.
+The importance is the relation, not the number value (HxW):
+
+- Milestone object: 32x32
+- Middleground grass: 32xInf
+- Middleground trees: 96x48
+- Background clouds: < 64x192
+- Milestone entity: < 256x192
+- Foreground grass layer: 16xInf
+- Foreground dirt layer: 80xInf
+- Sprite body: 48x48
+- Sprite arms / legs: 16x16

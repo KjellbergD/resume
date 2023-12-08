@@ -16,6 +16,7 @@ The sprite is self-made. The hands and feet need some colors, shading and detail
 #### The environment
 The foreground has to be some sort of walking surface and some layer beneath such as dirt.
 The background can be a sky with some clouds.
+THE LIGHT WILL COME FROM THE RIGHT SIDE!!!
 Perhaps in the middleground there can be some grass straws.
 Ideally, all the layers will be moving at different speeds to give a depth perception i.e., the further back elements move slower.
 ![environment](environment.png)

@@ -22,22 +22,22 @@
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
- "tileheight":96,
+ "tileheight":270,
  "tilesets":[
         {
          "columns":1,
          "firstgid":1,
          "image":"..\/..\/..\/Downloads\/foreground_grass_dirt_tile.png",
-         "imageheight":96,
-         "imagewidth":96,
+         "imageheight":270,
+         "imagewidth":270,
          "margin":0,
-         "name":"world",
+         "name":"foreground_grass_dirt_tile",
          "spacing":0,
          "tilecount":1,
-         "tileheight":96,
-         "tilewidth":96
+         "tileheight":270,
+         "tilewidth":270
         }],
- "tilewidth":96,
+ "tilewidth":270,
  "type":"map",
  "version":"1.10",
  "width":30

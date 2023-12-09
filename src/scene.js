@@ -11,7 +11,7 @@ export class GameScene extends Phaser.Scene {
 
     create () {
         const map = this.make.tilemap({ key: 'tilemap'})
-        const tileset = map.addTilesetImage('world', 'tiles')
+        const tileset = map.addTilesetImage('foreground_grass_dirt_tile', 'tiles')
 
         map.createLayer('ground', tileset)
     }

@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="30" height="4" tilewidth="96" tileheight="96" infinite="0" nextlayerid="2" nextobjectid="1">
- <tileset firstgid="1" name="world" tilewidth="96" tileheight="96" tilecount="1" columns="1">
-  <image source="../../../Downloads/foreground_grass_dirt_tile.png" width="96" height="96"/>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="30" height="4" tilewidth="270" tileheight="270" infinite="0" nextlayerid="2" nextobjectid="1">
+ <editorsettings>
+  <export target="games.json" format="json"/>
+ </editorsettings>
+ <tileset firstgid="1" name="foreground_grass_dirt_tile" tilewidth="270" tileheight="270" tilecount="1" columns="1">
+  <image source="../../../Downloads/foreground_grass_dirt_tile.png" width="270" height="270"/>
  </tileset>
- <layer id="1" name="Tile Layer 1" width="30" height="4">
+ <layer id="1" name="ground" width="30" height="4">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

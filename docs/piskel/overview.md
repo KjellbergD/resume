@@ -20,3 +20,6 @@ The following designs are made with animations. Size is 32x32 pixels (HxW):
 ### Character hands feet
 A design for shoes (feet) are made
 A design for hands are made
+
+### Character face / body
+A pixelated face version is added, please change!

@@ -10,6 +10,8 @@ A single design is made for grass/dirt ground (repeating pattern). Size is 88x96
 ### Middleground
 A single design is made for grass (repeating pattern). Size is 32x96 pixels (HxW). TODO: Perhaps create a couple more with slight variation.
 
+A design for a tree is made. TODO: Make some more in different sizes.
+
 ### Milestone object
 The following designs are made with animations. Size is 32x32 pixels (HxW):
 - glasses

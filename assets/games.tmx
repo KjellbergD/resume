@@ -5,6 +5,11 @@
  </editorsettings>
  <tileset firstgid="1" name="foreground_grass_dirt_tile" tilewidth="270" tileheight="270" tilecount="1" columns="1">
   <image source="../../../Downloads/foreground_grass_dirt_tile.png" width="270" height="270"/>
+  <tile id="0">
+   <properties>
+    <property name="collides" type="bool" value="true"/>
+   </properties>
+  </tile>
  </tileset>
  <layer id="1" name="ground" width="30" height="4">
   <data encoding="csv">

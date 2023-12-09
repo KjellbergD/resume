@@ -1,4 +1,4 @@
-import { GameScene} from './scene.js';
+import { GameScene } from './scene.js';
 
 export const gameSize = {
     width: 1080 * (window.innerWidth / window.innerHeight),
@@ -12,9 +12,14 @@ export const game_config = {
     backgroundColor: '#4EADF5',
     scene: GameScene,
     physics: {
-        default: 'arcade',
-        arcade: {
-            gravity: { y: 200 }
+        default: 'matter',
+        matter: {
+            gravity: { y: 1 },
+            enableSleeping: true,
+            debug: {
+                showBody: true,
+                showStaticBody: true
+            }
         }
     },
     scale: {

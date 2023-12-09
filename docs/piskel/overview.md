@@ -16,3 +16,6 @@ A design for a tree is made. TODO: Make some more in different sizes.
 The following designs are made with animations. Size is 32x32 pixels (HxW):
 - glasses
 - gradhat
+
+### Character hands feet
+A design for shoes (feet) are made
